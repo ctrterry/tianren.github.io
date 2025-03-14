@@ -8,7 +8,8 @@ title: "Terry's Resume"
 **Email:** [ctrterry@gmail.com](mailto:ctrterry@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/tianren-chen-3424211a8/](https://www.linkedin.com/in/tianren-chen-3424211a8/)
 **Github** [https://github.com/ctrterry](mailto:https://github.com/ctrterry)
-**My Canvas** [https://canvas.ucdavis.edu/courses]
+<a href="https://canvas.ucdavis.edu/courses" target="_blank"><strong>My Canvas</strong></a>
+
 
 **Location:**  Davis, CA, USA
 
