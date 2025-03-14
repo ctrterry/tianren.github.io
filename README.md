@@ -21,24 +21,21 @@ This website is a place where I share my journey, including:
 - Personal and professional projects I’ve undertaken.
 - Links to my professional profiles and ways to contact me.
 
-Feel free to explore the [GitHub repository](https://github.com/YourUsername/YourPortfolioRepo) for more details on the code and content structure.
-
 ## Education
 
 **University of California, Davis**  
 *Major: Computer Science*  
-*Expected Graduation: 20XX*
+*Expected Graduation: 2025*
 
 - Relevant Coursework: Data Structures, Algorithms, Computer Architecture, AI, etc.
-- Activities: ACM Club, Hackathons, Research Assistant in [X Lab], etc.
 
 ## Projects
 
 You can see my active, archived, and upcoming projects listed on the website. Notable examples include:
 
-- **Project A**: A short description of what it does and what you learned.
-- **Project B**: Another short description highlighting technology stack and achievements.
-- **Project C**: Focuses on advanced topics, such as AI or robotics.
+- **Project A**:  Details
+- **Project B**:  Details
+- **Project C**: Details
 
 ## Experience
 
