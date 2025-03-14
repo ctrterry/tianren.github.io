@@ -1,21 +1,3 @@
-<input type="text" id="searchBar" placeholder="Search..." onkeyup="searchContent()" style="width: 100%; padding: 8px; margin-bottom: 10px;">
-
-<script>
-function searchContent() {
-    let input = document.getElementById("searchBar").value.toLowerCase();
-    let sections = document.querySelectorAll("h2, h3"); // Search in H2 and H3 headings
-
-    sections.forEach(section => {
-        let text = section.innerText.toLowerCase();
-        if (text.includes(input)) {
-            section.style.display = "block";
-        } else {
-            section.style.display = "none";
-        }
-    });
-}
-</script>
-
 ---
 layout: default
 title: "Terry's Resume"
