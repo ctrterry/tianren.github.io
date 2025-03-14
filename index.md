@@ -59,7 +59,6 @@ Completed Electrical Engineering Courses:
 
 ---
 
-<hr>
 ## Skills
 
 ### Technical Skills
@@ -69,7 +68,6 @@ Completed Electrical Engineering Courses:
 - **Data Analytics**: Google Data Analytics Certificate (hands-on with data wrangling/visualization)  
 - **Systems Knowledge**: Linux  
 - **Tools & Technologies**: GitHub (Version Control), VS Code (IDE)
-<hr>
 
 ### Soft Skills
 - Problem-solving and Critical Thinking  
