@@ -1,5 +1,30 @@
-title: Tianren Chen
-logo: /assets/img/headshot_circle.png
-description: Need modify for later
-show_downloads: true 
+title: "Terry’s Professional Portfolio"
+description: "Sharing my journey, projects, and professional experience."
 theme: jekyll-theme-minimal
+
+# Path to your logo or headshot. This can be local (e.g., in /assets/img/) or an external URL.
+logo: /assets/img/headshot_circle.png 
+
+# Toggle whether GitHub repository downloads (zips) are shown on your repository page.
+show_downloads: true
+
+# If you have a custom domain, specify here:
+# url: "https://www.your-custom-domain.com"
+# baseurl: ""
+
+# Social links (optional; you can remove or add more).
+# Some minimal themes automatically show them, some require additional code in the layout.
+social_links:
+  - name: GitHub
+    url: "https://github.com/YOUR_GITHUB_USERNAME"
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/YOUR_LINKEDIN_ID"
+
+# You can also specify any plugins you might want:
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
+
+# Optional custom variables. You can reference these in your layout or pages.
+author_name: "Terry"
+author_tagline: "Aspiring AI/Robotics Engineer"
