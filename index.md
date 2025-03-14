@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Terry's Resume & Portfolio"
+title: "Terry's Resume"
 ---
 
-# Terry
-**Aspiring Computer Scientist | AI & Robotics Enthusiast**  
-**Email:** [terry@example.com](mailto:terry@example.com)  
-**LinkedIn:** [linkedin.com/in/terry/](https://www.linkedin.com/in/your-linkedin/)  
-**Location:** Your City, Your State (Optional)
+# Terry Chen
+**Major Computer Science, UC Davis**  
+**Email:** [ctrterry@gmail.com](mailto:ctrterry@gmail.com)  
+**LinkedIn:** [https://www.linkedin.com/in/tianren-chen-3424211a8/](https://www.linkedin.com/in/tianren-chen-3424211a8/)  
+**Location:** Davis, CA, USA
 
 ---
 
@@ -25,9 +25,10 @@ title: "Terry's Resume & Portfolio"
 *Google*  
 *Completed: February 2022*
 
-**College of Electrical Engineering**  
+
+<!-- **College of Electrical Engineering**  
 *Chongqing Electric Power College, Chongqing, China*  
-*Graduation: June 2020*
+*Graduation: June 2020* -->
 
 ---
 
@@ -130,7 +131,7 @@ Completed Electrical Engineering Courses:
 
 ## Contact
 
-**Email**: [terry@example.com](mailto:terry@example.com)  
+**Email**: [ctrterry@gmail.com](mailto:ctrterry@gmail.com)  
 Feel free to reach out for collaborations, networking, or any inquiries about my work and experience.
 
 ---

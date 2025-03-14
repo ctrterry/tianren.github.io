@@ -1,4 +1,4 @@
-title: "Terry’s Resume Portfolio"
+title: "Terry Resume"
 description: "Sharing my journey, projects, and professional experience."
 theme: jekyll-theme-minimal
 
@@ -26,5 +26,5 @@ social_links:
 #   - jekyll-sitemap
 
 # Optional custom variables. You can reference these in your layout or pages.
-author_name: "Terry"
-author_tagline: "Aspiring AI/Robotics Engineer"
+author_name: "Terry Chen"
+author_tagline: "Computer Science, UC Davis"
