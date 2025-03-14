@@ -7,8 +7,8 @@ title: "Terry's Resume"
 **Major Computer Science, UC Davis**  
 **Email:** [ctrterry@gmail.com](mailto:ctrterry@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/tianren-chen-3424211a8/](https://www.linkedin.com/in/tianren-chen-3424211a8/)
-**Github** [https://github.com/ctrterry](mailto:https://github.com/ctrterry)
-<a href="https://canvas.ucdavis.edu/courses" target="_blank"><strong>My Canvas</strong></a>
+**Github** [https://github.com/ctrterry](mailto:https://github.com/ctrterry) <br>
+<a href="https://canvas.ucdavis.edu/courses" target="_blank"><strong>Access My Canvas: Personal User it</strong></a>
 
 
 **Location:**  Davis, CA, USA
