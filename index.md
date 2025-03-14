@@ -10,10 +10,10 @@ title: "Terry's Resume"
 **Github** [https://github.com/ctrterry](mailto:https://github.com/ctrterry) <br>
 **Canvas** <a href="https://canvas.ucdavis.edu/courses" target="_blank"><strong>Access My Canvas, Personal Used it</strong></a> -->
 
-**Email:** <a href="ctrterry@gmail.com" target="_blank"><strong>Access to my email</strong></a> <br>
-**LinkedIn** <a href="https://www.linkedin.com/in/tianren-chen-3424211a8/" target="_blank"><strong>Access to LinkedIn</strong></a> <br>
+**Email:** [ctrterry@gmail.com](mailto:ctrterry@gmail.com) <br>
+**LinkedIn:** <a href="https://www.linkedin.com/in/tianren-chen-3424211a8/" target="_blank"><strong>Access to LinkedIn</strong></a> <br>
 **Github:** <a href="https://github.com/ctrterry" target="_blank"><strong>Access to Github</strong></a> <br>
-**Canvas:** <a href="https://canvas.ucdavis.edu/courses" target="_blank"><strong>Access My Canvas, Personal Used it</strong></a>
+**Canvas:** <a href="https://canvas.ucdavis.edu/courses" target="_blank"><strong>Access My Canvas, Personal Used it</strong></a> <br>
 **Location:**  Davis, CA, USA
 
 ---
