@@ -1,4 +1,3 @@
-# Computer Science Major 
-
+# Education Process
 ### Education 
 Computer Science Major, UC Davis
